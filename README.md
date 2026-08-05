@@ -10,7 +10,7 @@ Add your deployed link here:
 
 Add your GitHub repository link here:
 
-**GitHub:** https://github.com/yourusername/trader-risk-dashboard
+**GitHub:** [https://github.com/yourusername/trader-risk-dashboard](https://github.com/Piyush-Amola/trader-risk-dashboard.git)
 
 ---
 
@@ -54,7 +54,7 @@ The dashboard calculates all trading statistics directly from trade data instead
 Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/trader-risk-dashboard.git
+git clone [https://github.com/yourusername/trader-risk-dashboard.git](https://github.com/Piyush-Amola/trader-risk-dashboard.git)
 ```
 
 Go to the project folder.
