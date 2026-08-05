@@ -1,5 +1,9 @@
 # Tradescape – Trader Risk Dashboard
 
+A responsive **Trader Risk Dashboard** built with **React, Vite, Tailwind CSS, and Recharts**. The dashboard helps traders monitor their trading performance, account health, and risk exposure by calculating all metrics dynamically from trade data.
+
+---
+
 ## Live Demo
 
 Add your deployed link here:
@@ -84,6 +88,8 @@ npm run build
 ---
 
 # What I Built
+
+This project is a responsive Trader Risk Dashboard that provides traders with a quick overview of their account performance and risk status.
 
 I built a responsive Trader Risk Dashboard that displays:
 
@@ -171,3 +177,9 @@ The application is fully responsive and works on:
 Full Stack Web Developer
 
 GitHub: https://github.com/Piyush-Amola/trader-risk-dashboard.git
+
+---
+
+## License
+
+This project was developed as part of the **Tradescape Full Stack Developer Assignment**.
