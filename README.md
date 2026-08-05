@@ -54,7 +54,7 @@ The dashboard calculates all trading statistics directly from trade data instead
 Clone the repository.
 
 ```bash
-git clone [https://github.com/yourusername/trader-risk-dashboard.git](https://github.com/Piyush-Amola/trader-risk-dashboard.git)
+git clone https://github.com/Piyush-Amola/trader-risk-dashboard.git
 ```
 
 Go to the project folder.
@@ -170,4 +170,4 @@ The application is fully responsive and works on:
 
 Full Stack Web Developer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Piyush-Amola/trader-risk-dashboard.git
