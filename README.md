@@ -4,7 +4,7 @@
 
 Add your deployed link here:
 
-**Live:** https://your-live-demo-link.com
+**Live:** https://trader-risk-dashboard-phi.vercel.app/
 
 ## GitHub Repository
 
